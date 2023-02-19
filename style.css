@@ -67,7 +67,13 @@ header img{
     justify-content: left;
 }
 
+footer{
+    margin-top: 60px;
+}
 footer p{
     color: #18aaff;
-    
+    font-size: 10px;
+}
+.powered{
+    color: #e0aa3e;
 }
